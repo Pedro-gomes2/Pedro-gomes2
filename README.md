@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João Pedro Oliveira
 
-<!--
-**Pedro-gomes2/Pedro-gomes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em **Backend com Java & Spring Boot**, atualmente expandindo meus conhecimentos para me tornar **Fullstack Developer**.  
+Adoro resolver problemas complexos e transformar ideias em código funcional 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 O que estou fazendo agora
+- Estudando **JavaScript** para dominar o Front-end
+- Praticando exercícios de lógica e operadores
+- Publicando projetos no GitHub para consolidar meu portfólio
+
+---
+
+## 🛠️ Tecnologias que uso
+- **Backend:** Java, Spring Boot, SQL  
+- **Frontend:** JavaScript (em aprendizado)  
+- **Ferramentas:** Git, GitHub, Linux, VS Code  
+
+---
+
+## 🎯 Objetivo
+Consolidar minha carreira como **Fullstack Developer** e conquistar oportunidades internacionais na área de tecnologia 🌍
+
+---
+
+## 📂 Projetos em destaque
+- Exercícios de lógica em JavaScript  
+- Simulações de sistemas (cálculo de salário, operações bancárias, etc.)  
+- Projetos iniciais com Java e Spring Boot  
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](www.linkedin.com/in/joão-pedro-oliveira-95b003255)  
+- [GitHub](https://github.com/Pedro-gomes2)  
+
+---
