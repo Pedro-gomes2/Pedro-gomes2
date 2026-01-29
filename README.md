@@ -32,7 +32,7 @@ Consolidar minha carreira como **Fullstack Developer** e conquistar oportunidade
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/joão-pedro-oliveira-95b003255)  
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-95b003255/)  
 - [GitHub](https://github.com/Pedro-gomes2)  
 
 ---
