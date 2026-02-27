@@ -13,10 +13,19 @@ Adoro resolver problemas complexos e transformar ideias em código funcional �
 ---
 
 ## 🛠️ Tecnologias que uso
-- **Backend:** Java, Spring Boot, SQL  
-- **Frontend:** JavaScript (em aprendizado)  
-- **Ferramentas:** Git, GitHub, Linux, VS Code  
 
+### 💻 Backend
+- ☕ Java  
+- 🌱 Spring Boot  
+- 🗄️ SQL  
+
+### 🎨 Frontend
+- 🟨 JavaScript *(em aprendizado)*  
+
+### 🔧 Ferramentas & Ambiente
+- 🌿 Git  
+- 🐙 GitHub  
+- 🧩 VS Code
 ---
 
 ## 🎯 Objetivo
