@@ -15,17 +15,18 @@ Adoro resolver problemas complexos e transformar ideias em código funcional �
 ## 🛠️ Tecnologias que uso
 
 ### 💻 Backend
-- ☕ Java  
-- 🌱 Spring Boot  
-- 🗄️ SQL  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🎨 Frontend
-- 🟨 JavaScript *(em aprendizado)*  
+![JavaScript](https://img.shields.io/badge/JavaScript-Em%20Aprendizado-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Ferramentas & Ambiente
-- 🌿 Git  
-- 🐙 GitHub  
-- 🧩 VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ## 🎯 Objetivo
