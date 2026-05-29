@@ -62,15 +62,21 @@
 ---
 
 ## ✅ Boas Práticas
-🏛️  Clean Architecture     →  separação clara de responsabilidades
-🧪  Testes unitários       →  utilitários cobertos com node:test
-📄  Documentação           →  specs, planos e guias de integração
-🔐  Segurança              →  RLS, HMAC SHA256, secrets em Edge Functions
-🗂️  Git semântico          →  commits organizados por convenção
+
+| | |
+|---|---|
+| 🏛️ **Clean Architecture** | Separação clara de responsabilidades por camadas |
+| 🧪 **Testes unitários** | Utilitários cobertos com `node:test` |
+| 📄 **Documentação** | Specs, planos e guias de integração versionados |
+| 🔐 **Segurança** | RLS, HMAC SHA256, secrets em Edge Functions |
+| 🗂️ **Git semântico** | Commits organizados por convenção |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-gomes2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-gomes2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-gomes2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-gomes2&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
 </div>
